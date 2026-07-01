@@ -2,7 +2,8 @@
 
 ### AI-Powered Multi-Agent Research System
 
-Deep Scholar is an autonomous research platform built using LangChain, Groq, Tavily, and Streamlit. It employs a team of specialized AI agents that collaborate to search, analyze, synthesize, and critique information, generating comprehensive research reports on any topic.
+Deep Scholar is an autonomous research platform built using LangChain, Groq, Tavily, and Streamlit. It employs a team of specialized AI agents that collaborate to search, analyze, synthesize, and critique information, generating comprehensive research reports on any topic.  
+App link: https://deep-scholar-a-research-app.streamlit.app/
 
 ---
 
